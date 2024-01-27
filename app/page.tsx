@@ -4,6 +4,7 @@ import Logo from '../assets/logo.svg';
 import LandingImg from '../assets/main.svg';
 import Link from 'next/link';
 
+
 export default function Home() {
 	return (
 		<main>
@@ -13,7 +14,7 @@ export default function Home() {
 					alt='jobify-logo'
 				/>
 			</header>
-			<section className='max-w-6xl mx-auto px-4 sm:px-8 h-screen -mt-20 grid lg:grid-cols[1fr,400px] items-center'>
+			<section className='max-w-6xl mx-auto px-4 sm:px-8 h-screen -mt-20 grid lg:grid-cols-[1fr,400px] items-center'>
 				<div>
 					<h1 className='capitalize text-4xl md:text-7xl font-bold'>
 						job <span className='text-primary'>tracking</span> app
