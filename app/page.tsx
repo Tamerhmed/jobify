@@ -16,14 +16,17 @@ export default function Home() {
 				<div>
 					<h1 className='capitalize text-4xl md:text-5xl font-bold'>
 						Trade job management software
-						<span className='text-primary py-2 block'> to streamline jobs, </span>estimating
-						& quoting.
+						<span className='text-primary py-2 block'>
+							{' '}
+							to streamline jobs,{' '}
+						</span>
+						estimating & quoting.
 					</h1>
 					<p className='leading-loose max-w-md mt-4'>
-						Leave the hard graft behind. If your job management system can not
+						Leave the hard graft behind. If your job management system can&#39t
 						capture new leads as jobs, create accurate quotes and takeoffs, and
-						dispatch instant online quotes with e-signatures, then it is time to
-						upgrade.
+						dispatch instant online quotes with e-signatures, then it&#39s time
+						to upgrade.
 					</p>
 					<Button
 						asChild
