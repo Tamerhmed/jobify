@@ -15,14 +15,14 @@ export default function Home() {
 			<section className='max-w-6xl mx-auto px-4 sm:px-8 h-screen -mt-20 grid lg:grid-cols-[1fr,400px] items-center'>
 				<div>
 					<h1 className='capitalize text-4xl md:text-7xl font-bold'>
-						Trade job management software to{' '}
+						Trade job management software to 
 						<span className='text-primary'>streamline jobs,</span> estimating &
 						quoting.
 					</h1>
 					<p className='leading-loose max-w-md mt-4'>
-						Leave the hard graft behind. If your job management system can't
+						Leave the hard graft behind. If your job management system can not
 						capture new leads as jobs, create accurate quotes and takeoffs, and
-						dispatch instant online quotes with e-signatures, then it's time to
+						dispatch instant online quotes with e-signatures, then it is time to
 						upgrade.
 					</p>
 					<Button
