@@ -23,10 +23,10 @@ export default function Home() {
 						estimating & quoting.
 					</h1>
 					<p className='leading-loose max-w-md mt-4'>
-						Leave the hard graft behind. If your job management system can&#39t
-						capture new leads as jobs, create accurate quotes and takeoffs, and
-						dispatch instant online quotes with e-signatures, then it&#39s time
-						to upgrade.
+						Leave the hard graft behind. If your job management system
+						can&apos;t capture new leads as jobs, create accurate quotes and
+						takeoffs, and dispatch instant online quotes with e-signatures, then
+						it&apos;s time to upgrade.
 					</p>
 					<Button
 						asChild
