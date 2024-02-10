@@ -14,9 +14,9 @@ export default function Home() {
 			</header>
 			<section className='max-w-6xl mx-auto px-4 sm:px-8 h-screen -mt-20 grid lg:grid-cols-[1fr,400px] items-center'>
 				<div>
-					<h1 className='capitalize text-4xl md:text-4xl font-bold'>
+					<h1 className='capitalize text-4xl md:text-5xl font-bold'>
 						Trade job management software
-						<span className='text-primary'> to streamline jobs, </span>estimating
+						<span className='text-primary py-2 block'> to streamline jobs, </span>estimating
 						& quoting.
 					</h1>
 					<p className='leading-loose max-w-md mt-4'>
